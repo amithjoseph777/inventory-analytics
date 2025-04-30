@@ -1,0 +1,5 @@
+mkdir data
+mv inventory_sample_data.csv data/
+git add data/inventory_sample_data.csv
+git commit -m "Added sample inventory dataset"
+git push
